@@ -1,0 +1,8 @@
+Origin: Yhawch Repo
+Label: Yhawch Repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia Repo by @Yhawch.

@@ -1,0 +1,15 @@
+Package: wadbl
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: @Yhawch
+Depends: mobilesubstrate
+Filename: wadbl_1.2.deb
+Size: 10058
+MD5sum: 97be34a13dffef25ea53504c722d2b3f
+SHA1: 6643c5df0e252f45a102d3357f50275d7415ca76
+SHA256: 061a26b377887066c40fe67c87d246da02635dd19e3ad03bcd3666a03d6e824e
+Section: Tweaks
+Description: whatsapp spam 
+Author: @Obito
+Name: wadbl
+
